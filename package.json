@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.2.4",
+    "openzeppelin-solidity": "^4.5.0"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5"
+  }
+}
